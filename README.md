@@ -23,7 +23,6 @@
 
 ![Building](https://img.shields.io/badge/BUILDING-CyberCastellum-1A1F2E?style=for-the-badge&labelColor=0D1117&color=6EE7F9)
 ![Freelancing](https://img.shields.io/badge/FREELANCING-WordPress·React·SEO-1A1F2E?style=for-the-badge&labelColor=0D1117&color=A78BFA)
-![Learning](https://img.shields.io/badge/STUDYING-MSc_AI_%40_UCA-1A1F2E?style=for-the-badge&labelColor=0D1117&color=6EE7F9)
 
 </div>
 
@@ -33,6 +32,26 @@
 <h3 align="center">🛠 Tech Stack</h3>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,js,cpp,react,django,laravel,wordpress,html,css,mysql,git,pytorch,sklearn&theme=dark" />
+</div>
+
+<br/>
+
+<!-- ===================== AI / ML ===================== -->
+<h3 align="center">🧠 AI Workflow — Automated Pipeline</h3>
+<div align="center">
+<img src="./assets/ai-workflow.svg" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-1A1F2E?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Scikit--Learn](https://img.shields.io/badge/-scikit--learn-1A1F2E?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-1A1F2E?style=for-the-badge&labelColor=0D1117&color=6EE7F9)
+![NLP](https://img.shields.io/badge/-NLP-1A1F2E?style=for-the-badge&labelColor=0D1117&color=A78BFA)
+![LLMs](https://img.shields.io/badge/-LLMs-1A1F2E?style=for-the-badge&labelColor=0D1117&color=6EE7F9)
+
 </div>
 
 <br/>
