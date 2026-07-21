@@ -1,81 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937&height=220&section=header&text=Muhammad%20Asad%20Ullah&fontSize=48&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20Architecture%20%40%20CyberCastellum&descAlignY=55&descColor=8B949E" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;WordPress+%2B+React+%2B+Django;SEO+%26+Digital+Marketing;Incoming+MSc+AI+%40+C%C3%B4te+d'Azur" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1F2E&height=220&section=header&text=Muhammad%20Asad%20Ullah&fontSize=42&fontColor=6EE7F9&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20%7C%20Freelancer&descAlignY=55&descSize=18&descColor=94A3B8"/>
 
 <br/>
 
-<a href="mailto:muhammadasadullah920@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
-<a href="https://asaad.is-a.dev/"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+web+architecture;Training+ML+models+that+matter;MSc+AI+%40+Universit%C3%A9+C%C3%B4te+d'Azur;Open+for+freelance+collaboration" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-## 🧭 Currently
+<p align="center">
+  <a href="mailto:muhammadasadullah920@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=6EE7F9" /></a>
+  <a href="https://asaad.is-a.dev/"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=6EE7F9" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6EE7F9" /></a>
+</p>
 
+<br/>
+
+<!-- ===================== STATUS BAR ===================== -->
 <div align="center">
 
-| 🏗️ Building | 💼 Freelancing | 🎓 Starting | 🏆 Was |
-|:---:|:---:|:---:|:---:|
-| Full-stack architecture @ **CyberCastellum** | WordPress · React · SEO for client brands | MSc Data Science & AI, **Université Côte d'Azur** (2026) | Gold Medalist, BSCS · Univ. of Chitral (CGPA 4.0) |
+![Building](https://img.shields.io/badge/BUILDING-CyberCastellum-1A1F2E?style=for-the-badge&labelColor=0D1117&color=6EE7F9)
+![Freelancing](https://img.shields.io/badge/FREELANCING-WordPress·React·SEO-1A1F2E?style=for-the-badge&labelColor=0D1117&color=A78BFA)
+![Learning](https://img.shields.io/badge/STUDYING-MSc_AI_%40_UCA-1A1F2E?style=for-the-badge&labelColor=0D1117&color=6EE7F9)
 
 </div>
 
 <br/>
 
-## ⚙️ Stack
-
+<!-- ===================== TECH STACK ===================== -->
+<h3 align="center">🛠 Tech Stack</h3>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,js,cpp,react,django,laravel,wordpress,html,css,mysql,git,pytorch,sklearn&theme=dark" />
 </div>
 
 <br/>
 
-## 📌 Featured
-
+<!-- ===================== STATS ===================== -->
 <div align="center">
 
-<a href="https://asaad.is-a.dev/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad9200&repo=REPLACE-WITH-REPO&theme=tokyonight&hide_border=true" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad9200&repo=REPLACE-WITH-REPO&theme=tokyonight&hide_border=true" /></a>
-
-</div>
-
-> Replace `REPLACE-WITH-REPO` with your real repo names — e.g. `negotia`, `cybercastellum-site`. Send me the names and I'll lock in the final links.
+<img src="https://github-readme-stats.vercel.app/api?username=asad9200&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6EE7F9&icon_color=A78BFA&text_color=94A3B8&border_radius=12" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad9200&layout=compact&hide_border=true&bg_color=0D1117&title_color=6EE7F9&text_color=94A3B8&border_radius=12" height="165"/>
 
 <br/>
 
-## 📊 Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asad9200&hide_border=true&background=0D1117&stroke=0D1117&ring=6EE7F9&fire=A78BFA&currStreakLabel=6EE7F9&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&border_radius=12" />
 
-<div align="center">
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=asad9200&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad9200&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asad9200&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asad9200&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asad9200&bg_color=0D1117&color=6EE7F9&line=A78BFA&point=E2E8F0&area=true&hide_border=true&radius=12" width="95%"/>
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Graph
-
+<!-- ===================== TROPHIES ===================== -->
 <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=asad9200&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+</div>
 
+<br/>
+
+<!-- ===================== SNAKE ===================== -->
+<div align="center">
 <img src="https://raw.githubusercontent.com/asad9200/asad9200/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
 </div>
-
-> This one's not automatic — see the setup note below.
 
 <br/>
 
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:0D1117&height=100&section=footer" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=asad9200&color=6EE7F9&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1F2E,100:0D1117&height=100&section=footer"/>
 
 </div>
